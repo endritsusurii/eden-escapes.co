@@ -1,0 +1,45 @@
+[07-Aug-2024 17:33:02 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 7
+[07-Aug-2024 17:33:02 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 35
+[07-Aug-2024 17:40:23 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 7
+[07-Aug-2024 17:40:23 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 37
+[07-Aug-2024 17:42:11 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 7
+[07-Aug-2024 17:42:11 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 37
+[07-Aug-2024 17:42:17 UTC] Email sending failed for form: 
+[07-Aug-2024 17:43:23 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 7
+[07-Aug-2024 17:43:23 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 37
+[07-Aug-2024 17:43:31 UTC] Email sending failed for form: 
+[07-Aug-2024 17:43:49 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 7
+[07-Aug-2024 17:43:49 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 37
+[07-Aug-2024 17:43:54 UTC] Email sending failed for form: 
+[07-Aug-2024 17:44:42 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 7
+[07-Aug-2024 17:44:42 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 37
+[07-Aug-2024 17:46:09 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 7
+[07-Aug-2024 17:46:09 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 37
+[07-Aug-2024 18:22:57 UTC] PHP Warning:  require(src/Exception.php): Failed to open stream: No such file or directory in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 5
+[07-Aug-2024 18:22:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 5
+[07-Aug-2024 18:26:24 UTC] PHP Warning:  require(src/Exception.php): Failed to open stream: No such file or directory in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 5
+[07-Aug-2024 18:26:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 5
+[07-Aug-2024 18:27:12 UTC] PHP Warning:  require(src/Exception.php): Failed to open stream: No such file or directory in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 5
+[07-Aug-2024 18:27:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 5
+[07-Aug-2024 18:32:44 UTC] PHP Warning:  require(src/Exception.php): Failed to open stream: No such file or directory in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 8
+[07-Aug-2024 18:32:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'src/Exception.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 8
+[07-Aug-2024 18:40:35 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 17
+[07-Aug-2024 18:40:35 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 61
+[07-Aug-2024 18:40:35 UTC] Email sending failed: Message body empty
+[07-Aug-2024 18:43:51 UTC] PHP Warning:  Undefined array key "form_type" in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 17
+[07-Aug-2024 18:43:51 UTC] PHP Warning:  Undefined variable $body in /home/fv2r0cpu6dwy/public_html/eden-escapes.co/send_email.php on line 61
+[07-Aug-2024 18:43:51 UTC] Email sending failed: Message body empty
+[07-Aug-2024 18:54:09 UTC] Email sending failed: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[07-Aug-2024 19:04:11 UTC] Email sending failed: SMTP Error: Could not connect to SMTP host. Failed to connect to server

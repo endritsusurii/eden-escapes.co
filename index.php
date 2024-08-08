@@ -20,10 +20,10 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="#home" data-en="Home" data-ar="الرئيسية">Home</a>
+                            <a class="nav-link" href="#home" data-en="Home" data-ar="الرئيسية">الرئيسية</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#about" data-en="About Us" data-ar="من نحن">About Us</a>
+                            <a class="nav-link" href="#about" data-en="About Us" data-ar="من نحن">من نحن</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#destinations" data-en="Destinations" data-ar="الوجهات">Destinations</a>
